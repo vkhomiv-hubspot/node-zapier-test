@@ -1,0 +1,22 @@
+{
+  "name": "test-beck",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkhomiv-hubspot/node-zapier-test.git"
+  },
+  "author": "vkhomiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkhomiv-hubspot/node-zapier-test/issues"
+  },
+  "homepage": "https://github.com/vkhomiv-hubspot/node-zapier-test#readme"
+}
